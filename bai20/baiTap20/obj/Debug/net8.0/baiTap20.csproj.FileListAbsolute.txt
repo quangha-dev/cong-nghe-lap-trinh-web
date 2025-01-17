@@ -1,0 +1,14 @@
+C:\Users\laptop\source\repos\baiTap20\baiTap20\bin\Debug\net8.0\baiTap20.exe
+C:\Users\laptop\source\repos\baiTap20\baiTap20\bin\Debug\net8.0\baiTap20.deps.json
+C:\Users\laptop\source\repos\baiTap20\baiTap20\bin\Debug\net8.0\baiTap20.runtimeconfig.json
+C:\Users\laptop\source\repos\baiTap20\baiTap20\bin\Debug\net8.0\baiTap20.dll
+C:\Users\laptop\source\repos\baiTap20\baiTap20\bin\Debug\net8.0\baiTap20.pdb
+C:\Users\laptop\source\repos\baiTap20\baiTap20\obj\Debug\net8.0\baiTap20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop\source\repos\baiTap20\baiTap20\obj\Debug\net8.0\baiTap20.AssemblyInfoInputs.cache
+C:\Users\laptop\source\repos\baiTap20\baiTap20\obj\Debug\net8.0\baiTap20.AssemblyInfo.cs
+C:\Users\laptop\source\repos\baiTap20\baiTap20\obj\Debug\net8.0\baiTap20.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\baiTap20\baiTap20\obj\Debug\net8.0\baiTap20.dll
+C:\Users\laptop\source\repos\baiTap20\baiTap20\obj\Debug\net8.0\refint\baiTap20.dll
+C:\Users\laptop\source\repos\baiTap20\baiTap20\obj\Debug\net8.0\baiTap20.pdb
+C:\Users\laptop\source\repos\baiTap20\baiTap20\obj\Debug\net8.0\baiTap20.genruntimeconfig.cache
+C:\Users\laptop\source\repos\baiTap20\baiTap20\obj\Debug\net8.0\ref\baiTap20.dll
